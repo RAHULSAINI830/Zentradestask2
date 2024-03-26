@@ -1,4 +1,4 @@
-Task 3 :- Frontend Login Dashboard directing to dashboard page showing different Metrics
+Task 2 & 3 :- Frontend Login Dashboard directing to dashboard page showing different Metrics
 
 Work Done: The login page is made as shown in the image 
 ![image](https://github.com/RAHULSAINI830/Zentradestask3/assets/96569692/4d0b1d7a-0110-4c7c-aa13-3143556c942f)
